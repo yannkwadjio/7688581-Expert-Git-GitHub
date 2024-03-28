@@ -58,7 +58,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **OC**
+* **yannkwadjio**
 
 ## License
 
